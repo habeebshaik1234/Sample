@@ -1,0 +1,15 @@
+history 
+ganesh bro 
+habeeb 
+devops 
+git bash 
+git hub 
+to creat local repository use git init
+and then give global user.name -username
+git config global user .email -enter email
+then stagging /adding = git add 
+commit = git commit -m 'message'
+git remote add origin url 
+git branch -M branch name 
+pushing =git push -u origin name
+
