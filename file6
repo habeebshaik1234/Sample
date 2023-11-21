@@ -12,4 +12,4 @@ commit = git commit -m 'message'
 git remote add origin url 
 git branch -M branch name 
 pushing =git push -u origin name
-
+habeebshaik1234
